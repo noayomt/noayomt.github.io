@@ -1951,6 +1951,7 @@ input, select, textarea {
 		background-color: #8ebebc;
 		border: 0;
 		cursor: pointer;
+		/*
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
 		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
 		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1958,7 +1959,8 @@ input, select, textarea {
 		-moz-transition: background-color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out;
-		transition: background-color 0.35s ease-in-out;
+		transition: background-color 0.35s ease-in-out; 
+		*/
 	}
 
 		input[type="button"]:hover,
@@ -2631,3 +2633,14 @@ input, select, textarea {
 				}
 
 	}
+/* NAVY BUTTON OVERRIDE */
+.button,
+.button:before,
+.button:after,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+    background: #000068 !important;
+    background-image: none !important;
+    border: none !important;
+}
