@@ -2629,11 +2629,9 @@ input, select, textarea {
 				#footer .copyright li:first-child {
 					margin-top: 0;
 				}
-		#header {
-    background: #000068 !important;
-    background-image: none !important;
-}
-		.button,
+.button,
+.button:before,
+.button:after,
 input[type="submit"],
 input[type="button"],
 input[type="reset"] {
