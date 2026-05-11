@@ -304,11 +304,11 @@ input, select, textarea {
 		}
 
 		.row > .col-1 {
-			width: 8.33333%;
+			width: 8.#00006833%;
 		}
 
 		.row > .off-1 {
-			margin-left: 8.33333%;
+			margin-left: 8.#00006833%;
 		}
 
 		.row > .col-2 {
@@ -328,11 +328,11 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 33.#00006833%;
 		}
 
 		.row > .off-4 {
-			margin-left: 33.33333%;
+			margin-left: 33.#00006833%;
 		}
 
 		.row > .col-5 {
@@ -352,11 +352,11 @@ input, select, textarea {
 		}
 
 		.row > .col-7 {
-			width: 58.33333%;
+			width: 58.#00006833%;
 		}
 
 		.row > .off-7 {
-			margin-left: 58.33333%;
+			margin-left: 58.#00006833%;
 		}
 
 		.row > .col-8 {
@@ -376,11 +376,11 @@ input, select, textarea {
 		}
 
 		.row > .col-10 {
-			width: 83.33333%;
+			width: 83.#00006833%;
 		}
 
 		.row > .off-10 {
-			margin-left: 83.33333%;
+			margin-left: 83.#00006833%;
 		}
 
 		.row > .col-11 {
@@ -547,11 +547,11 @@ input, select, textarea {
 				}
 
 				.row > .col-1-wide {
-					width: 8.33333%;
+					width: 8.#00006833%;
 				}
 
 				.row > .off-1-wide {
-					margin-left: 8.33333%;
+					margin-left: 8.#00006833%;
 				}
 
 				.row > .col-2-wide {
@@ -571,11 +571,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-wide {
-					width: 33.33333%;
+					width: 33.#00006833%;
 				}
 
 				.row > .off-4-wide {
-					margin-left: 33.33333%;
+					margin-left: 33.#00006833%;
 				}
 
 				.row > .col-5-wide {
@@ -595,11 +595,11 @@ input, select, textarea {
 				}
 
 				.row > .col-7-wide {
-					width: 58.33333%;
+					width: 58.#00006833%;
 				}
 
 				.row > .off-7-wide {
-					margin-left: 58.33333%;
+					margin-left: 58.#00006833%;
 				}
 
 				.row > .col-8-wide {
@@ -619,11 +619,11 @@ input, select, textarea {
 				}
 
 				.row > .col-10-wide {
-					width: 83.33333%;
+					width: 83.#00006833%;
 				}
 
 				.row > .off-10-wide {
-					margin-left: 83.33333%;
+					margin-left: 83.#00006833%;
 				}
 
 				.row > .col-11-wide {
@@ -792,11 +792,11 @@ input, select, textarea {
 				}
 
 				.row > .col-1-normal {
-					width: 8.33333%;
+					width: 8.#00006833%;
 				}
 
 				.row > .off-1-normal {
-					margin-left: 8.33333%;
+					margin-left: 8.#00006833%;
 				}
 
 				.row > .col-2-normal {
@@ -816,11 +816,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-normal {
-					width: 33.33333%;
+					width: 33.#00006833%;
 				}
 
 				.row > .off-4-normal {
-					margin-left: 33.33333%;
+					margin-left: 33.#00006833%;
 				}
 
 				.row > .col-5-normal {
@@ -840,11 +840,11 @@ input, select, textarea {
 				}
 
 				.row > .col-7-normal {
-					width: 58.33333%;
+					width: 58.#00006833%;
 				}
 
 				.row > .off-7-normal {
-					margin-left: 58.33333%;
+					margin-left: 58.#00006833%;
 				}
 
 				.row > .col-8-normal {
@@ -864,11 +864,11 @@ input, select, textarea {
 				}
 
 				.row > .col-10-normal {
-					width: 83.33333%;
+					width: 83.#00006833%;
 				}
 
 				.row > .off-10-normal {
-					margin-left: 83.33333%;
+					margin-left: 83.#00006833%;
 				}
 
 				.row > .col-11-normal {
@@ -1037,11 +1037,11 @@ input, select, textarea {
 				}
 
 				.row > .col-1-narrow {
-					width: 8.33333%;
+					width: 8.#00006833%;
 				}
 
 				.row > .off-1-narrow {
-					margin-left: 8.33333%;
+					margin-left: 8.#00006833%;
 				}
 
 				.row > .col-2-narrow {
@@ -1061,11 +1061,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-narrow {
-					width: 33.33333%;
+					width: 33.#00006833%;
 				}
 
 				.row > .off-4-narrow {
-					margin-left: 33.33333%;
+					margin-left: 33.#00006833%;
 				}
 
 				.row > .col-5-narrow {
@@ -1085,11 +1085,11 @@ input, select, textarea {
 				}
 
 				.row > .col-7-narrow {
-					width: 58.33333%;
+					width: 58.#00006833%;
 				}
 
 				.row > .off-7-narrow {
-					margin-left: 58.33333%;
+					margin-left: 58.#00006833%;
 				}
 
 				.row > .col-8-narrow {
@@ -1109,11 +1109,11 @@ input, select, textarea {
 				}
 
 				.row > .col-10-narrow {
-					width: 83.33333%;
+					width: 83.#00006833%;
 				}
 
 				.row > .off-10-narrow {
-					margin-left: 83.33333%;
+					margin-left: 83.#00006833%;
 				}
 
 				.row > .col-11-narrow {
@@ -1282,11 +1282,11 @@ input, select, textarea {
 				}
 
 				.row > .col-1-narrower {
-					width: 8.33333%;
+					width: 8.#00006833%;
 				}
 
 				.row > .off-1-narrower {
-					margin-left: 8.33333%;
+					margin-left: 8.#00006833%;
 				}
 
 				.row > .col-2-narrower {
@@ -1306,11 +1306,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-narrower {
-					width: 33.33333%;
+					width: 33.#00006833%;
 				}
 
 				.row > .off-4-narrower {
-					margin-left: 33.33333%;
+					margin-left: 33.#00006833%;
 				}
 
 				.row > .col-5-narrower {
@@ -1330,11 +1330,11 @@ input, select, textarea {
 				}
 
 				.row > .col-7-narrower {
-					width: 58.33333%;
+					width: 58.#00006833%;
 				}
 
 				.row > .off-7-narrower {
-					margin-left: 58.33333%;
+					margin-left: 58.#00006833%;
 				}
 
 				.row > .col-8-narrower {
@@ -1354,11 +1354,11 @@ input, select, textarea {
 				}
 
 				.row > .col-10-narrower {
-					width: 83.33333%;
+					width: 83.#00006833%;
 				}
 
 				.row > .off-10-narrower {
-					margin-left: 83.33333%;
+					margin-left: 83.#00006833%;
 				}
 
 				.row > .col-11-narrower {
@@ -1527,11 +1527,11 @@ input, select, textarea {
 				}
 
 				.row > .col-1-mobile {
-					width: 8.33333%;
+					width: 8.#00006833%;
 				}
 
 				.row > .off-1-mobile {
-					margin-left: 8.33333%;
+					margin-left: 8.#00006833%;
 				}
 
 				.row > .col-2-mobile {
@@ -1551,11 +1551,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-mobile {
-					width: 33.33333%;
+					width: 33.#00006833%;
 				}
 
 				.row > .off-4-mobile {
-					margin-left: 33.33333%;
+					margin-left: 33.#00006833%;
 				}
 
 				.row > .col-5-mobile {
@@ -1575,11 +1575,11 @@ input, select, textarea {
 				}
 
 				.row > .col-7-mobile {
-					width: 58.33333%;
+					width: 58.#00006833%;
 				}
 
 				.row > .off-7-mobile {
-					margin-left: 58.33333%;
+					margin-left: 58.#00006833%;
 				}
 
 				.row > .col-8-mobile {
@@ -1599,11 +1599,11 @@ input, select, textarea {
 				}
 
 				.row > .col-10-mobile {
-					width: 83.33333%;
+					width: 83.#00006833%;
 				}
 
 				.row > .off-10-mobile {
-					margin-left: 83.33333%;
+					margin-left: 83.#00006833%;
 				}
 
 				.row > .col-11-mobile {
