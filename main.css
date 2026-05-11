@@ -2644,3 +2644,10 @@ input[type="reset"] {
     background-image: none !important;
     border: none !important;
 }
+/* NAVY SIDEBAR */
+#header,
+#header:before,
+#header .inner {
+    background: #000068 !important;
+    background-image: none !important;
+}
