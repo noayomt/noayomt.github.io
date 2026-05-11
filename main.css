@@ -2629,6 +2629,15 @@ input, select, textarea {
 				#footer .copyright li:first-child {
 					margin-top: 0;
 				}
+
+/* FORCE SIDEBAR TO NAVY */
+#header,
+#header:before,
+#header .inner {
+    background: #000068 !important;
+    background-image: none !important;
+}		
+		
 .button,
 .button:before,
 .button:after,
