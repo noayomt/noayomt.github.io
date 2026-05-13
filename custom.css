@@ -1,0 +1,28 @@
+/* NAVY SIDEBAR */
+#header,
+#header:before,
+#header .inner {
+    background: #000068 !important;
+    background-image: none !important;
+}
+
+/* NAVY BUTTON */
+.button,
+.button:before,
+.button:after,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+    background: #000068 !important;
+    background-image: none !important;
+    border: none !important;
+}
+
+/* NAVY TEXT */
+h1, h2, h3, h4, h5, h6,
+strong, b,
+a,
+p,
+li {
+    color: #000068 !important;
+}
