@@ -26,11 +26,3 @@ p,
 li {
     color: #000068 !important;
 }
-/* Make all grids look the same */
-.projects-grid,
-.projects-grid-2,
-.projects-grid-3 {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 30px;
-}
