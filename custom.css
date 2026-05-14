@@ -26,3 +26,13 @@ p,
 li {
     color: #000068 !important;
 }
+/* Make the last grid (projects-grid-2) behave like a 2‑column layout */
+.projects-grid-2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.projects-grid-2 .project-card {
+  width: calc(50% - 1rem);
+}
