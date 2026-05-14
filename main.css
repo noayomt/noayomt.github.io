@@ -2661,7 +2661,6 @@ input[type="reset"] {
 }
 /* Make each grid take half the row (panoramic) */
 .projects-grid .projectcard,
-.projects-grid-2 .projectcard,
-.projects-grid-3 .projectcard{
+.projects-grid-2 .projectcard {
 width: calc(50% - 1rem) !important;
 }
