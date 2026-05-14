@@ -2651,3 +2651,17 @@ input[type="reset"] {
     background: #000068 !important;
     background-image: none !important;
 }
+/* Make all grids look the same */
+.projects-grid,
+.projects-grid-2,
+.projects-grid-3 {
+  display: flex !important;
+ flexwrap: wrap !important;
+  gap: 2rem  !important;
+}
+/* Make each grid take half the row (panoramic) */
+.projects-grid .projectcard,
+.projects-grid-2 .projectcard,
+.projects-grid-3 .projectcard{
+width: calc(50% - 1rem) !important;
+}
