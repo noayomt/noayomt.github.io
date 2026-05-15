@@ -36,3 +36,13 @@ li {
 .projects-grid-2 .project-card {
   width: calc(50% - 1rem);
 }
+/* Fix last grid: force 2-column layout */
+.projects-grid-2 {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 2rem !important;
+}
+
+.projects-grid-2 .project-card {
+  width: calc(50% - 1rem) !important;
+}
